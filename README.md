@@ -8,3 +8,6 @@ AAR Binding project is availble under aar binding folder.
 1) esewaSDK.aar (May 15, 2020)
 
 Note: Use android:theme="@style/MainTheme" inside application tag of Android Menifist file.
+
+## Preview
+<img  src="Screenshot/esewa.png" width="250" height="450">
