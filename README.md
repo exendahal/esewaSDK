@@ -11,3 +11,7 @@ Note: Use android:theme="@style/MainTheme" inside application tag of Android Men
 
 ## Preview
 <img  src="Screenshot/esewa.png" width="250" height="450">
+
+
+## Xamarin Implementation for esewa, Khalti and Esewa (Native Library Bindings)
+Link: https://github.com/exendahal/epayNepal
